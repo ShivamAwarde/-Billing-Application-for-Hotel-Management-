@@ -1,1 +1,1 @@
-# -Billing-Application-for-Hotel-Management-
+Developed a Billing Application for Hotel Management using C++, featuring real-time order processing, automated bill generation, and secure File Handling for record-keeping. Implemented Object-oriented Programming (OOP) Principles to manage user data, orders, and transactions efficiently, ensuring accuracy and seamless operations. Enhanced customer experience with a structured interface for order selection, dynamic billing, and secure payment validation, improving efficiency in hotel and restaurant management.
